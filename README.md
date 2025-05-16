@@ -46,5 +46,8 @@ user2,example2@example.com
    ```python
    GITHUB_ORG = "your-organization-name"  # 替换为你的组织名称
    GITHUB_TOKEN = "your-personal-access-token"  # 替换为你的 GitHub 个人访问令牌
+    ```
+### 根据这个文档生成GITHUB_TOKEN
+https://docs.github.com/zh/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#%E5%88%9B%E5%BB%BA-personal-access-token-classic
 
 
