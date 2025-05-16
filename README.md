@@ -1,6 +1,6 @@
 # githubscripts
 
-# 这个脚本用于批量邀请用户加入组织，用户信息存储在一个user.csv文件中，格式为：# githubscripts
+# 这个脚本用于批量邀请用户加入组织
 
 ## 功能说明
 
@@ -16,7 +16,7 @@ CSV 文件应包含以下两列：
 username,email
 user1,example1@example.com
 user2,example2@example.com
-# username, email
+```
 
 
 ## 如何运行 `invite-members.py` 脚本
