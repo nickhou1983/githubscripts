@@ -2,8 +2,8 @@ import csv
 import requests
 
 # GitHub 组织名称和访问令牌
-GITHUB_ORG = "demoscripts"  # 替换为你的组织名称
-GITHUB_TOKEN = "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"  # 替换为你的 GitHub 个人访问令牌
+GITHUB_ORG = "your-organization-name"  # 替换为你的组织名称
+GITHUB_TOKEN = "your-personal-access-token"  # 替换为你的 GitHub 个人访问令牌
 
 # GitHub API URL
 GITHUB_API_URL = f"https://api.github.com/orgs/{GITHUB_ORG}/invitations"
